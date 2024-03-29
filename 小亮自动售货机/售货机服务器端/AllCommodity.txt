@@ -1,0 +1,11 @@
+modify kele 2.99 S:/pan/xiaoliang/img/commodity/1-coke.jpg 5
+modify weita 4.49 S:/pan/xiaoliang/img/commodity/10-Vitamin_water.jpg 3
+modify chapi 4.99 S:/pan/xiaoliang/img/commodity/11-TeaPi.jpg 7
+modify fenda 2.50 S:/pan/xiaoliang/img/commodity/2-Fanta.jpg 4
+modify molicha 3.00 S:/pan/xiaoliang/img/commodity/3-JasmineHoneyTea.jpg 8
+modify water 1.99 S:/pan/xiaoliang/img/commodity/4-SpringWater.jpg 4
+modify binghoncha 2.99 S:/pan/xiaoliang/img/commodity/5-IcedBlackTea.jpg 6
+modify maidong 3.49 S:/pan/xiaoliang/img/commodity/7-Pulsation.jpg 10
+modify ADgai 1.99 S:/pan/xiaoliang/img/commodity/6-ADCalciumMilk.jpg 9
+modify wangwang 2.59 S:/pan/xiaoliang/img/commodity/8-WantWantChildren'smilk.jpg 5
+modify mitaoshui 3.99 S:/pan/xiaoliang/img/commodity/9-SPARKLING_WATER.jpg 3

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "input.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "font.h": "c",
+        "muens.h": "c",
+        "typeinfo": "c",
+        "lcd.h": "c"
+    }
+}

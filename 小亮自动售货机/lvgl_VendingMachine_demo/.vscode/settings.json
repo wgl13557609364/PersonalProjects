@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "evdev.h": "c",
+        "lv_examples.h": "c",
+        "lv_freetype.h": "c",
+        "lv_demos.h": "c",
+        "lvgl.h": "c",
+        "list.h": "c",
+        "lv_indev.h": "c",
+        "lv_obj.h": "c",
+        "numbers": "c",
+        "lv_example_anim.h": "c",
+        "lv_example_layout.h": "c",
+        "lv_example_flex.h": "c",
+        "lv_list.h": "c",
+        "lv_btn.h": "c",
+        "lv_label.h": "c",
+        "lv_img.h": "c",
+        "lv_conf_internal.h": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "lv_flex.h": "c",
+        "avformat.h": "c",
+        "time.h": "c",
+        "lv_ffmpeg.h": "c"
+    }
+}
