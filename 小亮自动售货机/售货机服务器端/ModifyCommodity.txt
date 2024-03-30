@@ -1,0 +1,5 @@
+modify kele 2.99 S:/pan/xiaoliang/img/commodity/1-coke.jpg 5
+modify weita 4.49 S:/pan/xiaoliang/img/commodity/10-Vitamin_water.jpg 3
+modify chapi 4.99 S:/pan/xiaoliang/img/commodity/11-TeaPi.jpg 7
+modify fenda 2.50 S:/pan/xiaoliang/img/commodity/2-Fanta.jpg 4
+modify molicha 3.00 S:/pan/xiaoliang/img/commodity/3-JasmineHoneyTea.jpg 8

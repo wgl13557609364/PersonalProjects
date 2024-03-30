@@ -1,0 +1,13 @@
+..\obj\bsp_adc.o: ..\HARDWARE\ADC\bsp_adc.c
+..\obj\bsp_adc.o: ..\HARDWARE\ADC\bsp_adc.h
+..\obj\bsp_adc.o: ..\SYSTEM\stm32f10x.h
+..\obj\bsp_adc.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+..\obj\bsp_adc.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\bsp_adc.o: ..\SYSTEM\system_stm32f10x.h
+..\obj\bsp_adc.o: ..\USER\stm32f10x_conf.h
+..\obj\bsp_adc.o: ..\DEVICE_LIB\inc\stm32f10x_adc.h
+..\obj\bsp_adc.o: ..\SYSTEM\stm32f10x.h
+..\obj\bsp_adc.o: ..\DEVICE_LIB\inc\stm32f10x_gpio.h
+..\obj\bsp_adc.o: ..\DEVICE_LIB\inc\stm32f10x_rcc.h
+..\obj\bsp_adc.o: ..\DEVICE_LIB\inc\stm32f10x_usart.h
+..\obj\bsp_adc.o: ..\DEVICE_LIB\inc\misc.h

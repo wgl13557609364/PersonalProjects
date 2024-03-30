@@ -1,0 +1,13 @@
+..\obj\buzzer.o: ..\HARDWARE\Buzzer\buzzer.c
+..\obj\buzzer.o: ..\HARDWARE\Buzzer\buzzer.h
+..\obj\buzzer.o: ..\SYSTEM\stm32f10x.h
+..\obj\buzzer.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+..\obj\buzzer.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\buzzer.o: ..\SYSTEM\system_stm32f10x.h
+..\obj\buzzer.o: ..\USER\stm32f10x_conf.h
+..\obj\buzzer.o: ..\DEVICE_LIB\inc\stm32f10x_adc.h
+..\obj\buzzer.o: ..\SYSTEM\stm32f10x.h
+..\obj\buzzer.o: ..\DEVICE_LIB\inc\stm32f10x_gpio.h
+..\obj\buzzer.o: ..\DEVICE_LIB\inc\stm32f10x_rcc.h
+..\obj\buzzer.o: ..\DEVICE_LIB\inc\stm32f10x_usart.h
+..\obj\buzzer.o: ..\DEVICE_LIB\inc\misc.h
